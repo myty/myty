@@ -1,3 +1,5 @@
+# Hi! 👋🏻
+
 - 🔭 I’m currently working in .NET Core (C#) and React @ [andculture](https://andculture.com/)
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on community hacks for good
